@@ -6,6 +6,6 @@ A community catalog of YouTube creators focused on AI video and AI music. Channe
 
 | Creator | Categories | Subscribers | Total views | Videos | Latest video | Video views | Likes |
 | --- | --- | ---: | ---: | ---: | --- | ---: | ---: |
-| [市井說書人](https://www.youtube.com/channel/UCOpvHsGLkyCNzkJORCQrVNw) <!-- channel_id:UCOpvHsGLkyCNzkJORCQrVNw --> | ai-music | 3,240 | 1,414,080 | 59 | [《黃泉之前》第一集・初遇【短劇】｜顧淵與沈念的三千年前【地府系列前傳】](https://www.youtube.com/watch?v=ka3PqyZwbBA) | 1,260 | 55 |
+| [市井說書人](https://www.youtube.com/channel/UCOpvHsGLkyCNzkJORCQrVNw) <!-- channel_id:UCOpvHsGLkyCNzkJORCQrVNw --> | ai-music | 3,240 | 1,414,080 | 59 | [《黃泉之前》第一集・初遇【短劇】｜顧淵與沈念的三千年前【地府系列前傳】](https://www.youtube.com/watch?v=ka3PqyZwbBA) | 1,372 | 56 |
 
 <!-- KOL_TABLE_END -->
